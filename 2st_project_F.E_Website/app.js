@@ -1,0 +1,2 @@
+Shery.mouseFollower();
+Shery.mouseFollower();
